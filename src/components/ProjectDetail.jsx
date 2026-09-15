@@ -156,7 +156,7 @@ const ProjectDetails = () => {
     );
   }
 
-  const projectUrl = `https://tozall.com/project/${toSlug(project.Title)}`;
+  const projectUrl = `https://www.tozall.my.id/project/${toSlug(project.Title)}`;
 
   return (
     <>
@@ -193,7 +193,7 @@ const ProjectDetails = () => {
             "author": {
               "@type": "Person",
               "name": "Mastito Nur Afrizal",
-              "url": "https://tozall.com"
+              "url": "https://www.tozall.my.id"
             }
           }
         `}</script>

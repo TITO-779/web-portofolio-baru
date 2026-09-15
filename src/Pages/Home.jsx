@@ -143,10 +143,10 @@ const Home = () => {
         <title>Mastito Nur Afrizal — Frontend Web Developer</title>
         <meta name="description" content="Website resmi Mastito Nur Afrizal, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://tozall.com" />
+        <link rel="canonical" href="https://www.tozall.my.id" />
         <meta property="og:title" content="Mastito Nur Afrizal — Frontend Web Developer" />
      <meta property="og:description" content="Website resmi dan portofolio Mastito Nur Afrizal, Front-End Web Developer." />
-        <meta property="og:url" content="https://tozall.com" />
+        <meta property="og:url" content="https://www.tozall.my.id" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
@@ -154,7 +154,7 @@ const Home = () => {
             "@type": "Person",
             "name": "Mastito Nur Afrizal",
             "jobTitle": "Frontend Developer",
-            "url": "https://tozall.com",
+            "url": "https://www.tozall.my.id",
             "sameAs": [
               "https://github.com/ToZall",
               "https://www.linkedin.com/in/tozall/",

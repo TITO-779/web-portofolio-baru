@@ -4,7 +4,7 @@ Hello everyone\! 👋
 
 Let me introduce myself, I'm **Mastito Nur Afrizal**. On this occasion, I'd like to share the portfolio website project that I've developed. built with React and Supabase, featuring a public-facing site and an admin dashboard.
 
-**Live Demo:** [https://tozall.com](https://tozall.com)
+**Live Demo:** [https://www.tozall.my.id](https://www.tozall.my.id)
 
 ---
 
@@ -272,7 +272,7 @@ Upload the contents of the `dist/` folder to your hosting provider.
 ## Credits & Contact
 
 **Mastito Nur Afrizal**  
-Website: [eki.my.id](https://tozall.com) · GitHub: [ToZall](https://github.com/ToZall)
+Website: [www.tozall.my.id](https://www.tozall.my.id) · GitHub: [ToZall](https://github.com/ToZall)
 
 Thanks to [LottieFiles](https://lottiefiles.com/free-animation/coding-NWhbxMOVgP) and Claude.
 

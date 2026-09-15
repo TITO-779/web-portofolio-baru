@@ -33,9 +33,9 @@ const socialLinks = [
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@Mastito Nur afrizal",
+    subText: "@To-zall",
     icon: Youtube,
-    url: "https://www.youtube.com/@eki_zulfar",
+    url: "https://www.youtube.com/@To-zall",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
